@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## How to prevent .DS_Store file creation over network connections
