@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Sample post
+categories: 
+  - osx
 published: true
 ---
 
